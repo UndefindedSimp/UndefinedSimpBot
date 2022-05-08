@@ -7,7 +7,7 @@ owners = [
     559226493553737740
 ]
 
-slash_is_global = False
+slash_is_global = True
 
-if slash_is_global:
+if slash_is_global is True:
     servers=None
